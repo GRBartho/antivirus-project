@@ -1,0 +1,27 @@
+# ---- SAFETY: never commit malware samples or raw datasets ----
+# build_dataset.py writes the dataset here (Linux/Colab only)
+/data/
+/DikeDataset/
+/samples/
+/files/
+
+# Archives and binaries
+*.exe
+*.dll
+*.ole
+*.zip
+*.7z
+*.rar
+
+# Temporary model checkpoints (final model/model.pt IS committed)
+/model/checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store

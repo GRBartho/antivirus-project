@@ -1,0 +1,11 @@
+# Pin these before submission (assignment section 7.3 requires pinned versions).
+# The setup cell in each Colab notebook prints the exact "package==version"
+# lines from your Colab runtime -- paste them here.
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+pefile
+gradio
