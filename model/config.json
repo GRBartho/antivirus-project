@@ -1,0 +1,7 @@
+{
+  "max_len": 1048576,
+  "threshold": 0.2584061920642853,
+  "learning_rate": 0.0003,
+  "epoch": 4,
+  "validation_auc": 0.9993161426331079
+}

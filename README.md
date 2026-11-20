@@ -18,22 +18,27 @@ app/                 app.py (Gradio/Streamlit)
 ```
 
 ## Setup
+
 <!-- TODO: Python version, pip install -r requirements.txt -->
 
 ## Rebuild the dataset
+
 <!-- TODO: python dataset/build_dataset.py  (Linux only) -->
 
 ## Run the app
+
 <!-- TODO: python app/app.py -->
 
 ## Model
+
 <!-- TODO: architecture summary, parameter count, max_len, decision threshold -->
 
 ## Test-set results
+
 <!-- TODO -->
 
 ## AI-assistant use
+
 - Claude (Anthropic) set up the project scaffolding: folder structure, .gitignore,
   this README outline, and the environment-setup cells in the Colab notebooks.
 - ChatGPT was used to plan the VS Code + Colab workflow.
-<!-- TODO: add anything else an AI assistant helps with -->
